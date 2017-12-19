@@ -1,4 +1,4 @@
-How to compile Java program in Ubuntu?
+<h1>How to compile Java program in Ubuntu?<h1><br>
 Step 1 Type the program and save it with .java extension
 Step 2 Now open the terminal and open the folder in terminal where file is saved
 Step 3 Type 'javac <filename.java>'
