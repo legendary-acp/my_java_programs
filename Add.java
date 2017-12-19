@@ -1,14 +1,15 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class Add
 {
 	public static void main(String[] args)
 	{
-		int a,b;
+		int a,b,c;
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter First Number:");
 		a= in.nextInt();
 		System.out.println("Enter Second Number:");
 		b= in.nextInt();
-		System.out.println("Their sum is %d", a+b);
+		c=a+b;
+		System.out.printf("Their sum is %d",c);
 	}
 }
